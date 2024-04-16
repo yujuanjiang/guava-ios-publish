@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C4D5CBBA-4342-4DDE-8511-9119E82BB87F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1A4E383-BAE0-4AA0-B153-6D39648D3886"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Guava/Subscription/SubscriptionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "didTapMonthButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1A4E383-BAE0-4AA0-B153-6D39648D3886 - d69bcd855c84fffc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in Guava.SubscriptionViewController.didTapMonthButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Guava"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paras/Downloads/ios/sourcecode/Guava/Subscription/SubscriptionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "A1A4E383-BAE0-4AA0-B153-6D39648D3886 - d69bcd855c84fffc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in Guava.SubscriptionViewController.didTapMonthButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Guava"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paras/Downloads/ios/sourcecode/Guava/Subscription/SubscriptionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A1A4E383-BAE0-4AA0-B153-6D39648D3886 - 9f3159b21b719df9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in Guava.SubscriptionViewController.didTapMonthButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Guava"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paras/Downloads/ios%202/sourcecode/Guava/Subscription/SubscriptionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A1A4E383-BAE0-4AA0-B153-6D39648D3886 - 186339a7e566ec00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in Guava.SubscriptionViewController.didTapMonthButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Guava"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paras/Desktop/ios-Gauva/sourcecode/Guava/Subscription/SubscriptionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A1A4E383-BAE0-4AA0-B153-6D39648D3886 - d0676389d5783565"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in Guava.SubscriptionViewController.didTapMonthButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Guava"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paras/Desktop/ios-Gauva_202401271122/sourcecode/Guava/Subscription/SubscriptionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
